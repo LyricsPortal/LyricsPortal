@@ -45,4 +45,6 @@ Si prefieres donar en criptomonedas, aquí están mis direcciones:
 
 ¡Gracias por visitar mi perfil! 🚀
 
-![GitHub Followers](https://img.shields.io/github/followers/LyricsPortal?label=Follow&style=social)
+## 🚀 ¡Sígueme en GitHub!
+
+[![GitHub Followers](https://img.shields.io/github/followers/LyricsPortal?label=Follow&style=social)](https://github.com/LyricsPortal)
