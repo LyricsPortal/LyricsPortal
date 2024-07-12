@@ -12,8 +12,8 @@
                                 › ltc         : Lcxkv9EnNxoEbHS9kG5jW7hShpn3sqa26v
                               ————————————————————————————————————————————————————————————
                               SOCIAL-MEDIA
-                               › telegram    : t.me/LyricsDev
-                               › discord     : discordapp.com/users/1112418671684505710
+                               › Telegram    : t.me/LyricsDev
+                               › Discord     : discordapp.com/users/1112418671684505710
                                › X           : x.com/LyricsDevv
                               ————————————————————————————————————————————————————————————
 
