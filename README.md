@@ -1,4 +1,4 @@
-```css
+```
 
                                                       Developer
                                                  ╔═╗ ╦╦  ╦╔╦╗╦ ╦╔═╗
@@ -12,9 +12,9 @@
                                 › ltc         : Lcxkv9EnNxoEbHS9kG5jW7hShpn3sqa26v
                               ————————————————————————————————————————————————————————————
                               SOCIAL-MEDIA
-                               › telegram    : t.me/Lyrixsx
+                               › telegram    : t.me/LyricsDev
                                › discord     : discordapp.com/users/1112418671684505710
-                               › Soon...
-                              —————————————————————————————————————————
+                               › X           : x.com/LyricsDevv
+                              ————————————————————————————————————————————————————————————
 
 ```          
