@@ -25,7 +25,7 @@ Soy un **programador** en formación con una gran pasión por el desarrollo. Est
 - 💬 **Discord:** [its.lyrics](https://discordapp.com/users/1112418671684505710)
 - 📱 **Telegram:** [@LyricsDev](https://t.me/LyricsDev)
 - 🐦 **X (Twitter):** [@LyricsDevv](https://x.com/LyricsDevv)
-- 📧 **Correo Electrónico:** [hectorscab@gmail.com](mailto:hectorscab@gmail.com)
+- 📧 **Correo Electrónico:** [hectorscab@gmail.com](mailto:hectorescab@proton.me)
 
 ## 💰 **Donaciones**
 
@@ -37,9 +37,9 @@ Si te gusta mi trabajo y quieres apoyar mi desarrollo, puedes hacerlo a través 
 
 Si prefieres donar en criptomonedas, aquí están mis direcciones:
 
-- **Bitcoin (BTC):** ``bc1qavvg7c4sfmrrqmrm6vp680j3sqjyr8tcz0wjl0``
-- **Ethereum (ETH):** ``0x3431A09977ba8e8CC46cf515549E555908A0211C``
-- **Litecoin (LTC):** ``Lcxkv9EnNxoEbHS9kG5jW7hShpn3sqa26v``
+- **Bitcoin (BTC):** ``bc1qy48fwgzrk2lwd4sy3sn46afkrmrrkezqgssumq``
+- **Ethereum (ETH):** ``0x6d540EA19dFAb69ce375F9bb71Da7672f9393be6``
+- **Litecoin (LTC):** ``LYBaL923oxcjVeEm45z8YYkatFp7dszTDD``
 
 ---
 
