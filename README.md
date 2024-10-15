@@ -12,7 +12,7 @@ I am a **programmer in training** with a passion for development and learning ne
 
 ## 🚀 **GitHub statistics**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LyricsPortal&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=gruvbox)
+![Lyrics GitHub stats](https://github-readme-stats.vercel.app/api?username=LyricsPortal&show_icons=true&theme=dark)
 
 ## 🌐 **Projects**
 
