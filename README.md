@@ -1,6 +1,6 @@
 # 🌟 Hi, I'm Héctor Escabias 🌟
 
-I am a **programmer** in training with a great passion for development. I study programming and enjoy working with various technologies. Here you can see some of my projects, skills and ways to connect with me.
+I am a **programmer in training** with a passion for development and learning new technologies. Here you can explore my projects, skills, and ways to connect with me. Feel free to reach out and collaborate!
 
 ## 🔧 **Skills**
 
@@ -14,37 +14,44 @@ I am a **programmer** in training with a great passion for development. I study 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LyricsPortal&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=gruvbox)
 
-## 🌐 **Outstanding Projects**
+## 🌐 **Projects**
 
-- **[LunarPilot](https://discord.com/application-directory/1113523779319119873) :** __Verified discord bot.__ (Project stopped and discontinued).
+- **[LunarPilot](https://discord.com/application-directory/1113523779319119873) :** __A verified Discord bot.__ (Project stopped and discontinued).
 - ***Coming soon...***
 - ***Coming soon...***
 
-## 📫 **Connect With Me**
+## 📫 **Let's Connect**
+
+You can find me on various platforms. Feel free to reach out for collaboration or just to say hi! 😊
 
 - 💬 **Discord:** [its.lyrics](https://discordapp.com/users/1112418671684505710)
 - 📱 **Telegram:** [@LyricsDev](https://t.me/LyricsDev)
 - 🐦 **X (Twitter):** [@LyricsDevv](https://x.com/LyricsDevv)
-- 📧 **E-mail address:** [hectorscab@gmail.com](mailto:hectorescab@proton.me)
+- 📧 **E-mail address:** [ads-hectorscab@gmail.com](mailto:ads-hectorescab@proton.me)
 
 ## 💰 **Donations**
 
-If you like my work and want to support my development, you can do so through the following options:
+If you enjoy what I create, feel free to support me with donations. Your generosity helps me keep going! 🙌
 
-- **PayPal:** [paypal.me/TheLyrics](https://paypal.me/TheLyrics)
+- **PayPal:** Not Available :(
 
 ## 🔗 **Cryptocurrencies**
 
-If you prefer to donate in cryptocurrencies, here are my addresses:
+I also accept crypto donations:
 
 - **Bitcoin (BTC):** ``bc1qy48fwgzrk2lwd4sy3sn46afkrmrrkezqgssumq``
 - **Ethereum (ETH):** ``0x6d540EA19dFAb69ce375F9bb71Da7672f9393be6``
 - **Litecoin (LTC):** ``LYBaL923oxcjVeEm45z8YYkatFp7dszTDD``
 
+> [!WARNING]
+> *Be cautious when sending funds. Cryptocurrencies are decentralized, and transactions are final. Contact me if you need any help or have any questions!*
 ---
 
 Thanks for visiting my profile! 🚀
 
-## 🚀 Follow me on GitHub!
+> [!TIP]
+> ## 🚀 Follow Me on GitHub!
+
+If you'd like to stay updated with my work, don't forget to follow me on GitHub! 💻
 
 [![GitHub Followers](https://img.shields.io/github/followers/LyricsPortal?label=Follow&style=social)](https://github.com/LyricsPortal)
