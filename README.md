@@ -42,6 +42,7 @@ I also accept crypto donations:
 - **Bitcoin (BTC):** ``bc1qy48fwgzrk2lwd4sy3sn46afkrmrrkezqgssumq``
 - **Ethereum (ETH):** ``0x6d540EA19dFAb69ce375F9bb71Da7672f9393be6``
 - **Litecoin (LTC):** ``LYBaL923oxcjVeEm45z8YYkatFp7dszTDD``
+- **Tether USDT (With TRON network):** ``TK44hrrRov78HmyJHZeR47dEEGXAd37ws4``
 
 > [!WARNING]
 > *Be cautious when sending funds. Cryptocurrencies are decentralized, and transactions are final. Contact me if you need any help or have any questions!*
@@ -50,8 +51,6 @@ I also accept crypto donations:
 Thanks for visiting my profile! 🚀
 
 > [!TIP]
-> ## 🚀 Follow Me on GitHub!
-
-If you'd like to stay updated with my work, don't forget to follow me on GitHub! 💻
-
-[![GitHub Followers](https://img.shields.io/github/followers/LyricsPortal?label=Follow&style=social)](https://github.com/LyricsPortal)
+> ## 🚀 Look my Discord!
+> 
+![Discord Status](https://lanyard.cnrad.dev/api/1112418671684505710)
