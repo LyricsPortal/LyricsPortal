@@ -16,7 +16,7 @@ I am a **programmer in training** with a passion for development and learning ne
 
 ## 🌐 **Projects**
 
-- **[LunarPilot](https://discord.com/application-directory/1113523779319119873) :** __A verified Discord bot.__ (Project stopped and discontinued).
+- ***Coming soon...***
 - ***Coming soon...***
 - ***Coming soon...***
 
