@@ -2,6 +2,8 @@
 
 I am a **programmer in training** with a passion for development and learning new technologies. Here you can explore my projects, skills, and ways to connect with me. Feel free to reach out and collaborate!
 
+> https://guns.lol/lyricss
+
 ## 🔧 **Skills**
 
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
