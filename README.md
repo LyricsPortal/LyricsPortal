@@ -27,7 +27,7 @@ I am a **programmer in training** with a passion for development and learning ne
 You can find me on various platforms. Feel free to reach out for collaboration or just to say hi! 😊
 
 - 💬 **Discord:** [its.lyrics](https://discordapp.com/users/1112418671684505710)
-- 📱 **Telegram:** [@LyricsDev](https://t.me/LyricsDev)
+- 📱 **Telegram:** [@H3x0rX](https://t.me/H3x0rX)
 - 🐦 **X (Twitter):** [@LyricsDevv](https://x.com/LyricsDevv)
 - 📧 **E-mail address:** [ads-hectorscab@gmail.com](mailto:ads-hectorescab@proton.me)
 
