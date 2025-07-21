@@ -44,7 +44,7 @@ I also accept crypto donations:
 - **Bitcoin (BTC):** ``bc1qy48fwgzrk2lwd4sy3sn46afkrmrrkezqgssumq``
 - **Ethereum (ETH):** ``0x6d540EA19dFAb69ce375F9bb71Da7672f9393be6``
 - **Litecoin (LTC):** ``LYBaL923oxcjVeEm45z8YYkatFp7dszTDD``
-- **Tether USDT (With TRON network):** ``TK44hrrRov78HmyJHZeR47dEEGXAd37ws4``
+- **Tether USDT (With POLYGON MATIC network):** ``0x6d540EA19dFAb69ce375F9bb71Da7672f9393be6``
 
 > [!WARNING]
 > *Be cautious when sending funds. Cryptocurrencies are decentralized, and transactions are final. Contact me if you need any help or have any questions!*
