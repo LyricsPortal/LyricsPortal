@@ -12,11 +12,7 @@ I am a **programmer in training** with a passion for development and learning ne
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white)
 
-## 🚀 **GitHub statistics**
-
-![Lyrics GitHub stats](https://github-readme-stats.vercel.app/api?username=LyricsPortal&show_icons=true&theme=dark)
-
-## 🌐 **Projects**
+## 🌐 **Public Projects**
 
 - ***Coming soon...***
 - ***Coming soon...***
