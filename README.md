@@ -27,12 +27,6 @@ You can find me on various platforms. Feel free to reach out for collaboration o
 - 🐦 **X (Twitter):** [@LyricsDevv](https://x.com/LyricsDevv)
 - 📧 **E-mail address:** [ads-hectorscab@gmail.com](mailto:ads-hectorescab@proton.me)
 
-## 💰 **Donations**
-
-If you enjoy what I create, feel free to support me with donations. Your generosity helps me keep going! 🙌
-
-- **PayPal:** Not Available :(
-
 ## 🔗 **Cryptocurrencies**
 
 I also accept crypto donations:
