@@ -14,7 +14,7 @@ I am a **programmer in training** with a passion for development and learning ne
 
 ## 🌐 **Public Projects**
 
-- ***Coming soon...***
+- **[Web Tools Hub](https://webtoolshub-lyrics.vercel.app/)** - *All-in-one web tools hub.*
 - ***Coming soon...***
 - ***Coming soon...***
 
